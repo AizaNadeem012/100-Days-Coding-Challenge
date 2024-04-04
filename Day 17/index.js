@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 //🚀 Day 17 Challenge: Start Coding! 🚀
 //Question 1
 const hobbys = (...hobbyname) => {

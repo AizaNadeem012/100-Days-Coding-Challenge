@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 //🚀 Day 11 Challenge: Start Coding! 🚀
 //Queston 1
 let userList = [];

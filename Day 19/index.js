@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 //🚀 Day 19 Challenge: Start Coding!🚀
 //Question 1
 let numbers = [1, 2, 3, 4, 5, 6];

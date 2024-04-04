@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 //🚀 Day 7 Challenge: Start Coding! 🚀
 //Question 1
 console.log(`I have invited ${inivitedPerson.length} to the Dinner`);

@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 //🚀 Day 28 Challenge: Start Coding! 🚀
 //Question 1
 function car(carName) {

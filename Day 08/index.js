@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 //🚀 Day 8 Challenge: Start Coding! 🚀
 //Question 1
 let intentionalError = [

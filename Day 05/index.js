@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 //🚀 Day 5 Challenge: Start Coding! 🚀
 // Question 1
 let vehicles = ["Bike", "Car", "Bus", "Van", "auto"];

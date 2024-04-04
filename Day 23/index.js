@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 //🚀Day 23 Challenge: Start Coding! 🚀
 //Question 1
 const addnumAndString = (num1, strnum) => {

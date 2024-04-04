@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 //🚀 Day 6 Challenge: Start Coding! 🚀
 //Question 1
 inivitedPerson = ["Wajahat Ali", "Ahmed", "Usman Ali", "Anus"];

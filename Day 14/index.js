@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 //🚀 Day 14 Challenge: Start Coding! 🚀
 //Question 1
 function music_album(artics, title, tracks) {

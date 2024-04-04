@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 //🚀 Day 26 Challenge: Start Coding! 🚀
 const funParameter = (num1, name2) => {
     return num1 + name2;

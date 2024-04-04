@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 //🚀 Day 13 Challenge: Start Coding! 🚀
 //Question 1
 const tShirt = (Size = "Small", text = "You Are SomeBody Reason To Smile") => {
