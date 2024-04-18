@@ -1,13 +1,13 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.Person = void 0;
-var Person = /** @class */ (function () {
-    function Person(name) {
+class Person {
+    name;
+    constructor(name) {
         this.name = name;
     }
-    Person.prototype.greet = function () {
-        console.log("Hello, my name is ".concat(this.name));
-    };
-    return Person;
-}());
+    greet() {
+        console.log(`Hello, my name is ${this.name}`);
+    }
+}
 exports.Person = Person;

@@ -1,4 +1,4 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var mathFunction_1 = require("./mathFunction");
-console.log((0, mathFunction_1.subNumber)(8, 4));
+const Q1math_1 = require("./Q1math");
+console.log((0, Q1math_1.subNumber)(8, 4));
